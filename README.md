@@ -23,6 +23,7 @@ The HMPPS Developer Experince is a set of tooling and services that aim to empoe
 ### HMPPS Bootstraping
 
 - [hmpps-template-kotlin](https://github.com/ministryofjustice/hmpps-template-kotlin)
+- [hmpps-template-typescript](https://github.com/ministryofjustice/hmpps-template-typescript)
 - [dps-gradle-spring-boot](https://github.com/ministryofjustice/dps-gradle-spring-boot)
 - [hmpps-spring-boot-sqs](https://github.com/ministryofjustice/hmpps-spring-boot-sqs)
 - [dps-project-bootstrap](https://github.com/ministryofjustice/dps-project-bootstrap)
