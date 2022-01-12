@@ -1,8 +1,8 @@
-# HMPPS Developer Experience
+# HMPPS Engineering Accelerator Tooling
 
 ## Introduction 
 
-The HMPPS Developer Experince is a set of tooling and services that aim to empoer software engineers at HMPPS Digital to: 
+The HMPPS Engineering Accelerator Tooling is a set of tooling and services that aim to empoer software engineers at HMPPS Digital to: 
 
 - Delivery software at pace
 - Build quality software at scale 
