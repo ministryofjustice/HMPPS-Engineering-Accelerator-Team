@@ -36,18 +36,11 @@ Tooling for monitoring services
 
 - [dps-monitor](https://github.com/ministryofjustice/dps-monitor)
 - [dps-smoketest](https://github.com/ministryofjustice/dps-smoketest)
-- [dps-grafana](https://github.com/ministryofjustice/dps-grafana)
 - [health-kick](https://github.com/ministryofjustice/health-kick)
-
-### HMPPS Service Catalogue
-
-A single source of truth for our services (still in alpha)
-
-- [hmpps-backstage](https://github.com/ministryofjustice/hmpps-backstage)
 
 ## Who owns and supports these services?
 
-The HMPPS Developer Community.
+The HMPPS Developer Community - #hmpps_dev.
 
 ## How do I request changes?
 
